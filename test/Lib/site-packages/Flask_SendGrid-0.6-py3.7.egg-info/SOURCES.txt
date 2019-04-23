@@ -1,0 +1,13 @@
+HISTORY.rst
+MANIFEST.in
+README.rst
+flask_sendgrid.py
+requirements-test.txt
+setup.cfg
+setup.py
+Flask_SendGrid.egg-info/PKG-INFO
+Flask_SendGrid.egg-info/SOURCES.txt
+Flask_SendGrid.egg-info/dependency_links.txt
+Flask_SendGrid.egg-info/not-zip-safe
+Flask_SendGrid.egg-info/requires.txt
+Flask_SendGrid.egg-info/top_level.txt
